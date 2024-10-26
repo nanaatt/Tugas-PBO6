@@ -1,4 +1,4 @@
-# LAPORAN TUGAS PERTEMUAN KEENAM PEMROGRAMAN BERORIENTASI OBJEK
+# LAPORAN TUGAS KEENAM PEMROGRAMAN BERORIENTASI OBJEK
 
 👨‍🏫 **Dosen Pembimbing**: Bayu Adhi Nugroho, Ph.D  
 🎓 **Program Studi**: Sistem Informasi
