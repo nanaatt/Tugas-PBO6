@@ -1,8 +1,7 @@
-**LAPORAN TUGAS PERTEMUAN KEENAM PEMROGRAMAN BERORIENTASI OBJEK** 📚
+# LAPORAN TUGAS PERTEMUAN KEENAM PEMROGRAMAN BERORIENTASI OBJEK
 
-👨‍🏫 Dosen Pembimbing: Bayu Adhi Nugroho, Ph.D
-
-🎓 Program Studi: Sistem Informasi
+👨‍🏫 **Dosen Pembimbing**: Bayu Adhi Nugroho, Ph.D  
+🎓 **Program Studi**: Sistem Informasi
 
 **A. Penjelasan** 📝
 Laporan ini bertujuan untuk membuat aplikasi Java Swing dengan CRUD dan dilengkapi report 📊 yang dimana untuk mencetak laporan data mata kuliah serta menggunakan library JasperReport agar laporan dapat teratur dengan baik dan sesuai. Selain JasperReport, pada pertemuan kali ini juga menggunakan plugin dengan menginstall plugin yang terbaru.
